@@ -1,0 +1,2 @@
+Encryption is the process of converting plaintext to ciphertext.
+Encryption requires the use of an encryption key.
